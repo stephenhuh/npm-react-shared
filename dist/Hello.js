@@ -1,8 +1,7 @@
 import React from 'react';
-import styled from 'styled-components/macro';
 
-const Hello = () => (
-  <h1>Hello World!</h1>
-);
+var Hello = function Hello() {
+  return React.createElement("h1", null, "hello from new version");
+};
 
 export default Hello;
