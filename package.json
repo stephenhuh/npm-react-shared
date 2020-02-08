@@ -1,5 +1,5 @@
 {
-  "name": "@stephenhuh/shared-template",
+  "name": "shared-template",
   "main": " lib/index.js",
   "module": "lib/index.js",
   "version": "0.3.1",
